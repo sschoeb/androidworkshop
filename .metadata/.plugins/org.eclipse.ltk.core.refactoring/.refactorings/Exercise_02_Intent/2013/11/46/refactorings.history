@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ch.schoeb.day1_exercise_01_intent&apos; to &apos;ch.androidworkshop.intent&apos;&#x0D;&#x0A;- Original project: &apos;Day1_Exercise_02_Intent&apos;&#x0D;&#x0A;- Original element: &apos;Day1_Exercise_02_Intent/src/ch.schoeb.day1_exercise_01_intent&apos;&#x0D;&#x0A;- Renamed element: &apos;Day1_Exercise_02_Intent/src/ch.androidworkshop.intent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ch.schoeb.day1_exercise_01_intent&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ch.schoeb.day1_exercise_01_intent" name="ch.androidworkshop.intent" qualified="false" references="true" stamp="1384509992394" textual="false" version="1.0"/>
+</session>

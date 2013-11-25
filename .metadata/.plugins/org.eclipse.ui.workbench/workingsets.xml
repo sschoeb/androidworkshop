@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1385297195502_6" label="FriendFinder" name="FriendFinder">
+<item elementID="=FriendFinder" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=google-play-services_lib" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1385297205541_7" label="Exercises" name="Exercises">
+<item elementID="=Exercise_03_Resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exercise_02_Intent" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exercise_04_ViewGroups" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exercise_01_Activity" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exercise_06_BroadcastReceiver" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exercise_05_Service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1385297218778_8" label="Demos" name="Demos">
+<item elementID="=Demo_02_LayoutParameter" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo_01_ActivityLifecycle" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1384509892397_0" label="Window Working Set" name="Aggregate for window 1384509892397"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1384725574187_1" label="Window Working Set" name="Aggregate for window 1384725574187"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1384762942196_2" label="Window Working Set" name="Aggregate for window 1384762942196"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1384763409306_3" label="Window Working Set" name="Aggregate for window 1384763409306"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1384801725373_4" label="Window Working Set" name="Aggregate for window 1384801725373"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1385296571714_5" label="Window Working Set" name="Aggregate for window 1385296571714"/>
+</workingSetManager>
